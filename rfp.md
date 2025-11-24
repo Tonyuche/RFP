@@ -89,7 +89,7 @@ The proposed solution must strictly adhere to the following mandatory technical 
   * **Heatmap Visualization:** Real-time monitoring capability with visual coverage heatmaps and easy identification of connectivity issues.
   * **Performance Metrics:** Ability to track and report key metrics, including client throughput, latency, utilization per AP, and channel interference.
   * **API Integration:** Provision of **Application Programming Interfaces (APIs)** for integration with existing Network Management Systems (NMS) and logging tools (e.g., SNMP, Syslog).
-### Proposal Submission Requirements
+### 6. Proposal Submission Requirements
 Vendors must structure their response to include the following sections in the order listed:
 
 |Section  |Description |
@@ -100,3 +100,22 @@ Vendors must structure their response to include the following sections in the o
 |D. Cost Proposal| Detailed, itemized pricing for hardware, software/licensing, installation labor, and ongoing support contracts (AMC options).|
 |E. Vendor Qualifications |Company profile, list of relevant experience (minimum three client references), and certifications of technical staff.|
 |F. Support and Maintenance |Detailed SLA definitions for response times and resolution times for hardware and software support.|
+
+### 7. Proposal Submission Guidelines
+* Proposals must be submitted in PDF format and include:
+* Company profile
+* Proposed solution overview
+* Detailed cost breakdown
+* Technical design documents
+* Project schedule
+* Support model
+The deadline for submission is **December 20, 2025.** Selected vendors may be invited for presentations or clarifications.
+
+### Contact Information
+
+For questions or clarifications, contact:
+
+Name: Anthony Braide  
+Title: Human Resource Manager  
+Email: hr@tuchsolutions.ca  
+Phone: 2048124430
