@@ -93,13 +93,13 @@ The proposed solution must strictly adhere to the following mandatory technical 
 Vendors must structure their response to include the following sections in the order listed:
 
 |Section  |Description |
-|----|-----------------|
-|A. Executive Summary |A high-level overview of the proposed solution and how it meets the organization's goals.|
-|B. Technical Proposal |Detailed design, including AP model specifications, WLC architecture, licensing structure, and network diagrams.|
-|C. Project Plan |Timeline with key milestones for the Site Survey, Installation, Configuration, and Go-Live phases.|
-|D. Cost Proposal| Detailed, itemized pricing for hardware, software/licensing, installation labor, and ongoing support contracts (AMC options).|
-|E. Vendor Qualifications |Company profile, list of relevant experience (minimum three client references), and certifications of technical staff.|
-|F. Support and Maintenance |Detailed SLA definitions for response times and resolution times for hardware and software support.|
+|--------------|-----------------|
+|**A.** Executive Summary |A high-level overview of the proposed solution and how it meets the organization's goals.|
+|**B.** Technical Proposal |Detailed design, including AP model specifications, WLC architecture, licensing structure, and network diagrams.|
+|**C.** Project Plan |Timeline with key milestones for the Site Survey, Installation, Configuration, and Go-Live phases.|
+|**D.** Cost Proposal| Detailed, itemized pricing for hardware, software/licensing, installation labor, and ongoing support contracts (AMC options).|
+|**E.** Vendor Qualifications |Company profile, list of relevant experience (minimum three client references), and certifications of technical staff.|
+|**F.** Support and Maintenance |Detailed SLA definitions for response times and resolution times for hardware and software support.|
 
 ### 7. Proposal Submission Guidelines
 * Proposals must be submitted in PDF format and include:
